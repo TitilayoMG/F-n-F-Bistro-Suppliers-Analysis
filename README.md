@@ -56,25 +56,12 @@ I arrived at a report with two (2) pages named:
 
 ### First Page
 The first page is named F'n'F Bistro Suppliers Analysis and it contains all information in regards to suppliers. 
-This page shows -
-
-Suppliers' names by average lead time and fulfillment rate
-This shows which suppliers are the quickest in delivering orders and how often they fulfill their orders completely. It helps identify reliable and efficient suppliers
-
-
-Suppliers by avg lead time and quantity supplied
-This indicates the average time each supplier takes to deliver orders and the total amount of goods they supply. It helps assess which suppliers are quick and also handle large quantities of supplies.
-
-
-Average lead time by quantity supplied by month
-This shows how the average delivery time changes with the amount of goods supplied each month. It helps identify patterns in delivery times and supply quantities.
-
-
-Ingredients by ordered quantity and received quantity
-This compares how much of each ingredient was ordered and how much was actually received. It helps evaluate the accuracy and reliability of the supply chain for different ingredients.
-
 
 * F'n'F Bistro Suppliers Analysis
+
+
+
+### Second Page
 
 The second page shows all the details of F'n'F Bistro Orders Analysis in regards to Quantity Ordered 
 * F'n'F Bistro Orders Analysis
@@ -93,16 +80,16 @@ The second page shows all the details of F'n'F Bistro Orders Analysis in regards
 
 ## Insights
 Overall Insights from Analyzing Suppliers Performance at Flavours 'n' Forks Bistro
-📌 The overall fulfillment rate is high at 95.14%, which is a positive indicator
-📌 The overall cancellation rate is 4.9%, indicating that there's still room for improvement
-📌 Vegetables have the highest cancellation rate at 6.8%, suggesting potential issues with supply or quality that need to be addressed
-📌 Elizabeth Austin has the highest supplier compliance rate while Jessica Hodges has the lowest compliance rate, indicating a potential need for supplier contract renegotiation
-📌 The overall average lead time is 15.6 days
-📌 Among all suppliers, Whitney Burch has the highest lead time indicating inefficiency or logistical challenges
-📌 Tomatoes have a significantly high lead time and a low quantity supplied compared to other ingredients, pointing to a need to review the tomato supply chain
-📌 There is a difference of 3K between the quantity ordered and the quantity received
-📌 While the overall fulfillment and cancellation rates are good, specific suppliers like Jessica Hodges and Frances Wilson have low fulfillment rates
-📌 There is a noticeable increase in overall average lead time in March and October which should be investigated further
+* The overall fulfillment rate is high at 95.14%, which is a positive indicator
+* The overall cancellation rate is 4.9%, indicating that there's still room for improvement
+* Vegetables have the highest cancellation rate at 6.8%, suggesting potential issues with supply or quality that need to be addressed
+* Elizabeth Austin has the highest supplier compliance rate while Jessica Hodges has the lowest compliance rate, indicating a potential need for supplier contract renegotiation
+* The overall average lead time is 15.6 days
+* Among all suppliers, Whitney Burch has the highest lead time indicating inefficiency or logistical challenges
+* Tomatoes have a significantly high lead time and a low quantity supplied compared to other ingredients, pointing to a need to review the tomato supply chain
+* There is a difference of 3K between the quantity ordered and the quantity received
+* While the overall fulfillment and cancellation rates are good, specific suppliers like Jessica Hodges and Frances Wilson have low fulfillment rates
+* There is a noticeable increase in overall average lead time in March and October which should be investigated further
 
 ## Recommendations
 Recommendations from Analyzing Suppliers Performance at Flavours 'n' Forks Bistro
