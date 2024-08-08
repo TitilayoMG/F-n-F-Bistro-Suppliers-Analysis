@@ -1,7 +1,7 @@
 # F-n-F-Bistro-Suppliers-Analysis
 The analysis of supplier performance at Flavours 'n' Forks (F’n’F) Bistro provides valuable insights into the efficiency of the supply chain. The analysis covers crucial aspects such as fulfillment rates, cancellation rates, lead times, and supplier performance, providing a well-rounded view of the supply chain
 
-![](dataanalytics.avif)
+![](Supply-Chain-Analysis-Main-Benefits.jpg) 
 
 ## Introduction
 Flavours ’n’ Forks Bistro, also known as F”n” F Bistro, is a renowned restaurant in the heart of Lagos. Flavours ’n’ Forks Bistro faces significant challenges in its supply chain due to fluctuations in supplier performance.
@@ -28,12 +28,12 @@ Power BI concepts like:
 
 ## Data Transformation
 I imported the file into Power BI and selected all tables then clicked on Transform Data. In Power Query Editor, I created date table
-![](TablesChoosen.PNG)
+![](dt1.PNG)
 
 ### Data Cleaning
 In Power Query, I checked for Colum quality and converted each column to it appropriate data type.
 * Power Query
-![](DataFormat.PNG)
+![](dt2.PNG)
 
 I closed and apply after all necessary changes
 
@@ -41,12 +41,12 @@ I closed and apply after all necessary changes
 The Star Schema is the 'Order Table' and other 2 tables were connected to it. PowerBI did this intelligently, automatically creating relationships with them.
 * Model View
 
-![](AutomatedModel.PNG)
+![](dt6 - Copy.PNG)
 
 ## Data Analysis 
 I began creating and defining DAX measures. Numbers of expressions and functions were made to arrive at the desired Key Performance Indicator (KPI). Translated business requirements into report specifications and optimized the report performance by considering the best practices. 
 * DAX
-![](DAX.PNG)
+![](dt7.PNG)
 
 ## Data Visualization
 Effective visualizations were created in Power BI using charts and cards. Organizing and arranging visuals were put to play in designing the dashboards for a cohesive view of key performance indicators.
@@ -58,7 +58,7 @@ I arrived at a report with two (2) pages named:
 The first page is named F'n'F Bistro Suppliers Analysis and it contains all information in regards to suppliers. 
 
 * F'n'F Bistro Suppliers Analysis
-
+![](dt17.PNG)
 
 
 ### Second Page
@@ -66,7 +66,7 @@ The first page is named F'n'F Bistro Suppliers Analysis and it contains all info
 The second page shows all the details of F'n'F Bistro Orders Analysis in regards to Quantity Ordered 
 * F'n'F Bistro Orders Analysis
 
-![](Region.PNG)
+![](dt20.PNG)
 
 ## Analysis
 * It shows the average time each supplier takes to deliver orders and the total amount of goods they supply.
