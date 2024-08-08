@@ -41,7 +41,7 @@ I closed and apply after all necessary changes
 The Star Schema is the 'Order Table' and other 2 tables were connected to it. PowerBI did this intelligently, automatically creating relationships with them.
 * Model View
 
-![](dt6 - Copy.PNG)
+![](dt6.PNG)
 
 ## Data Analysis 
 I began creating and defining DAX measures. Numbers of expressions and functions were made to arrive at the desired Key Performance Indicator (KPI). Translated business requirements into report specifications and optimized the report performance by considering the best practices. 
