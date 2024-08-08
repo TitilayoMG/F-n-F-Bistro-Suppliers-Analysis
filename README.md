@@ -1,5 +1,5 @@
 # F-n-F-Bistro-Suppliers-Analysis
-The analysis of supplier performance at Flavours 'n' Forks (F’n’F) Bistro provides valuable insights into the efficiency of the supply chain. The analysis covers crucial aspects such as fulfillment rates, cancellation rates, lead times, and supplier performance, providing a well-rounded view of the supply chain
+The analysis of supplier performance at Flavours 'n' Forks (F’n’F) Bistro provides valuable insights into the efficiency of supply chain. The analysis covers crucial aspects such as fulfillment rates, cancellation rates, lead times and supplier performance, providing a well-rounded view of the supply chain
 
 ![](Supply-Chain-Analysis-Main-Benefits.jpg) 
 
@@ -44,7 +44,7 @@ The Star Schema is the 'Order Table' and other 2 tables were connected to it. Po
 ![](dt6.PNG)
 
 ## Data Analysis 
-I began creating and defining DAX measures. Numbers of expressions and functions were made to arrive at the desired Key Performance Indicator (KPI). Translated business requirements into report specifications and optimized the report performance by considering the best practices. 
+I began creating and defining DAX measures. Numbers of expressions and functions were made to arrive at the desired Key Performance Indicators (KPIs). Translated business requirements into report specifications and optimized the report performance by considering the best practices. 
 * DAX
 ![](dt7.PNG)
 
